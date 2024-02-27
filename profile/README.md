@@ -1,12 +1,9 @@
-## Hi there 👋
+# PalmLink project
 
-<!--
+![image](https://github.com/PalmLink/.github/assets/119606383/edb39c3e-50be-4868-8b12-fe94d094ac91)
 
-**Here are some ideas to get you started:**
+The code is seperated in two repositories:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Firmware](https://github.com/PalmLink/firmware): the code of the firmware that runs on the arduino (on the glove) 
+
+[Unity](https://github.com/PalmLink/unity): the code that is used to build the app on the Hololens2
